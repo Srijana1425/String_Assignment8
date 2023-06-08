@@ -9,7 +9,7 @@ Deleting "t" from "eat" adds 116 to the sum.
 At the end, both strings are equal, and 115 + 116 = 231 is the minimum sum possible to achieve this.<br><br><br>
 
 *Answer*<br>
-**code** [Link]()<br>
+**code** [Link](https://github.com/Srijana1425/String_Assignment8/blob/main/ans1.js)<br>
 **********************************************************************************************************************
 **Question 2**<br>
 Given a string s containing only three types of characters: '(', ')' and '*', return true *if* s *is **valid***.
@@ -23,7 +23,7 @@ The following rules define a **valid** string:<br>
 **Output:** true<br><br>
 
 *Answer*<br>
-**code** [Link]()<br>
+**code** [Link](https://github.com/Srijana1425/String_Assignment8/blob/main/ans2.js)<br>
 **********************************************************************************************************************
 **Question 3**<br>
 Given two strings word1 and word2, return *the minimum number of **steps** required to make* word1 *and* word2 *the same*.
@@ -34,7 +34,7 @@ In one **step**, you can delete exactly one character in either string.<br>
 **Explanation:** You need one step to make "sea" to "ea" and another step to make "eat" to "ea".<br><br>
 
 *Answer*<br>
-**code** [Link]()<br>
+**code** [Link](https://github.com/Srijana1425/String_Assignment8/blob/main/ans3.js)<br>
 **********************************************************************************************************************
 **Question 4**<br>
 You need to construct a binary tree from a string consisting of parenthesis and integers.<br>
@@ -45,7 +45,7 @@ You always start to construct the **left** child node of the parent first if it 
 **Output:** [4,2,6,3,1,5]<br><br>
 
 *Answer*<br>
-**code** [Link]()<br>
+**code** [Link](https://github.com/Srijana1425/String_Assignment8/blob/main/ans4.js)<br>
 **********************************************************************************************************************
 **Question 5**<br>
 Given an array of characters chars, compress it using the following algorithm:<br>
@@ -61,7 +61,7 @@ You must write an algorithm that uses only constant extra space.<br>
 **Explanation:** The groups are "aa", "bb", and "ccc". This compresses to "a2b2c3".<br><br>
  
 *Answer*<br>
-**code** [Link]()<br>
+**code** [Link](https://github.com/Srijana1425/String_Assignment8/blob/main/ans5.js)<br>
 **********************************************************************************************************************
  **Question 6**<br>
 Given two strings s and p, return *an array of all the start indices of* p*'s anagrams in* s. You may return the answer in **any order**.
@@ -75,7 +75,7 @@ The substring with start index = 6 is "bac", which is an anagram of "abc".<br><b
 
 
 *Answer*<br>
-**code** [Link]()<br>
+**code** [Link](https://github.com/Srijana1425/String_Assignment8/blob/main/ans6.js)<br>
 **********************************************************************************************************************
 **Question 7**<br><br><br>
 Given an encoded string, return its decoded string.
@@ -87,7 +87,7 @@ The test cases are generated so that the length of the output will never exceed 
 **Output:** "aaabcbc"<br><br>
 
 *Answer*<br>
-**code** [Link]()<br>
+**code** [Link](https://github.com/Srijana1425/String_Assignment8/blob/main/ans7.js)<br>
 **********************************************************************************************************************
 **Question 8**<br>
 Given two strings s and goal, return true *if you can swap two letters in* s *so the result is equal to* goal*, otherwise, return* false*.*
@@ -100,4 +100,4 @@ Swapping letters is defined as taking two indices i and j (0-indexed) such that 
 
 
 *Answer*<br>
-**code** [Link]()<br>
+**code** [Link](https://github.com/Srijana1425/String_Assignment8/blob/main/ans8.js)<br>
